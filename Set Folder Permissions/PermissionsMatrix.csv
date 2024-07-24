@@ -1,0 +1,5 @@
+﻿FolderServerRelativeURL,Users,Permission
+/sites/SiteName/Library/Folder,Steve@Crescent.com; Mark@Crescent.com; Thomson@Crescent.com,Edit
+/sites/SiteName/Library/Folder,Thomson@Crescent.com; Steve@Crescent.com,Read
+/sites/SiteName/Library/Folder/Folder,Mark@Crescent.com; Thomson@Crescent.com,Full Control
+/sites/SiteName/Library/Folder/Folder/Folder,Steve@Crescent.com; Mark@Crescent.com; Thomson@Crescent.com,Contribute
